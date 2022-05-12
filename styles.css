@@ -36,10 +36,10 @@
 }
 .header3
 {
-  width: 50%;
+  width: 80%;
   font-size: 17px;
   text-align: center;
-  font-family: 'Blippo', fantasy;
+  font-family: 'Blippo', monospace;
   color: #0B566C;
   background-color: white;
   display: block;
