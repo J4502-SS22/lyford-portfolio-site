@@ -36,10 +36,10 @@
 }
 .header3
 {
-  width: 80%;
+  width: 50%;
   font-size: 17px;
   text-align: center;
-  font-family: 'fa-brands-400.woff2';
+  font-family: 'Blippo', fantasy;
   color: #0B566C;
   background-color: white;
   display: block;
