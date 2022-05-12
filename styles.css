@@ -91,7 +91,7 @@ h1 {
   
   h2{
     margin: 20;
-    padding: 2px;
+    padding: 0px;
     font-family: 'Blippo' monospace;
     width: 55%;
     font-size: 12px;
@@ -99,10 +99,10 @@ h1 {
     color: #0B566C;
     background-color: white;
     display: block;
-    border-top: 4px solid #011116;
-  border-bottom: 4px solid #011116;
-  border-left: 4px solid #011116;
-  border-right: 4px solid #011116;
+    border-top: 4px solid #0B566C;
+  border-bottom: 4px solid #0B566C;
+  border-left: 4px solid #0B566C;
+  border-right: 4px solid #0B566C;
     }
 
 nav {
