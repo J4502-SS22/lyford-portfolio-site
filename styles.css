@@ -20,8 +20,8 @@
 
 .header2
 {
-  width: 40%;
-  font-size: 45px;
+  width: 80%;
+  font-size: 31px;
   text-align: center;
   font-family: 'fa-brands-400.woff2';
   color: #0B566C;
@@ -33,10 +33,6 @@
   margin-bottom: 40px;
   padding-left: 10px;
   padding-right: 10px;
-  border-top: 8px solid #011116;
-  border-bottom: 8px solid #011116;
-  border-left: 8px solid #011116;
-  border-right: 8px solid #011116;
 }
 
 figure {
@@ -46,7 +42,7 @@ figure {
 }
 
 figcaption {
-  background-color: #0B566D;
+  background-color: #27C3C3;
   align-items: center;
   color: black;
   text-align: center;
@@ -54,6 +50,14 @@ figcaption {
   padding: 5px;
   max-width: 750px;
   width: auto;
+}
+
+.headshot {
+  display: block;
+  justify-content: center;
+  align-items: center;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 
