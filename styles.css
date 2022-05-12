@@ -55,7 +55,7 @@ figcaption {
 .headshot {
   display: block;
   justify-content: center;
-  align-items: center;
+  width: 450px;
   margin-left: auto;
   margin-right: auto;
 }
