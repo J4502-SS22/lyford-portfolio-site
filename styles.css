@@ -1,6 +1,6 @@
 .header {
   width: 60%;
-  font-size: 90px;
+  font-size: 70px;
   text-align: center;
   font-family: 'fa-brands-400.woff2';
   color: #0B566C;
@@ -17,6 +17,45 @@
   border-left: 8px solid #011116;
   border-right: 8px solid #011116;
 }
+
+.header2
+{
+  width: 40%;
+  font-size: 45px;
+  text-align: center;
+  font-family: 'fa-brands-400.woff2';
+  color: #0B566C;
+  background-color: white;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: auto;
+  margin-bottom: 40px;
+  padding-left: 10px;
+  padding-right: 10px;
+  border-top: 8px solid #011116;
+  border-bottom: 8px solid #011116;
+  border-left: 8px solid #011116;
+  border-right: 8px solid #011116;
+}
+
+figure {
+  width: auto;
+  max-width: 450px;
+  align-items: center;
+}
+
+figcaption {
+  background-color: #0B566D;
+  align-items: center;
+  color: black;
+  text-align: center;
+  font-size: 1rem;
+  padding: 5px;
+  max-width: 750px;
+  width: auto;
+}
+
 
 body {
   margin: 0;
@@ -49,8 +88,8 @@ nav li {
   font-size: 1rem;
   box-sizing: border-box;
   text-align: center;
-  border-top: 1px solid #FFF;
-  border-bottom: 1px solid #FFF;
+  border-top: 1px solid #011116;
+  border-bottom: 1px solid #011116;
 }
 
 a {
@@ -72,4 +111,3 @@ nav a:focus {
   background: #FFFFFF;
   color: #2D5D6C;
 }
-
