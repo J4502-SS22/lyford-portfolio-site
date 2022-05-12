@@ -1,3 +1,4 @@
 # lyford-portfolio-site
 The portfolio/resume for Connor Lyford
-https://github.com/J4502-SS22/lyford-portfolio-site/index.html
+<br>
+https://j4502-ss22.github.io/lyford-portfolio-site/
