@@ -217,3 +217,14 @@ nav a:focus {
   background: #FFFFFF;
   color: #2D5D6C;
 }
+footer {
+  background: #0B566C;
+  color: white;
+  text-align:center;
+  margin-top: 1rem;
+  padding: 1rem;
+  width: 100%;
+  box-sizing: border-box;
+  border-top: 10px solid #EAD7C3;
+  border-bottom: 10px solid #EAD7C3;
+}
