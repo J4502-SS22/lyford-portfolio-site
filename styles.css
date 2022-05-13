@@ -80,6 +80,13 @@ body {
   min-height: 100vh;
 }
 
+#content {
+  display: block;
+  width: 90%;
+  max-width: 850px;
+  margin: auto;
+}
+
 h1 {
   margin: 0;
   padding: 5px;
