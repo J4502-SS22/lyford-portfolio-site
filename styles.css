@@ -18,12 +18,11 @@
   border-right: 8px solid #011116;
 }
 
-.header2
-{
-  width: 80%;
-  font-size: 32px;
+.header2 {
+  width: 60%;
+  font-size: 50px;
   text-align: center;
-  font-family: 'fa-brands-400.woff2';
+  font-family: 'Blippo', monospace;
   color: #0B566C;
   background-color: white;
   display: block;
@@ -31,9 +30,10 @@
   margin-right: auto;
   margin-top: auto;
   margin-bottom: 40px;
-  padding-left: 10px;
-  padding-right: 10px;
+  padding-left: 18px;
+  padding-right: 18px;
 }
+
 .header3
 {
   width: 80%;
